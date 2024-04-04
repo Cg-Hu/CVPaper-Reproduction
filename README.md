@@ -1,2 +1,2 @@
 # CVPaper-Reproduction
-一些经典CV论文的复现都在这，自学使用潘，仍然在更新当中
+The codes of some papers that I studied and ran through are all here. The updates are not very fast.
